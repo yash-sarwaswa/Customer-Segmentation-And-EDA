@@ -1,0 +1,39 @@
+Countries with their total purchase percentages
+United Kingdom          91.363880
+Germany                  1.766771
+France                   1.591771
+EIRE                     1.525238
+Spain                    0.471139
+Netherlands              0.441879
+Belgium                  0.385596
+Switzerland              0.371618
+Portugal                 0.281416
+Australia                0.234451
+Norway                   0.202396
+Italy                    0.149654
+Channel Islands          0.141081
+Finland                  0.129526
+Cyprus                   0.113685
+Sweden                   0.085916
+Unspecified              0.082375
+Austria                  0.074734
+Denmark                  0.072497
+Japan                    0.066720
+Poland                   0.063552
+Israel                   0.054606
+USA                      0.054233
+Hong Kong                0.052929
+Singapore                0.042678
+Iceland                  0.033919
+Canada                   0.028142
+Greece                   0.027210
+Malta                    0.023669
+United Arab Emirates     0.012673
+European Community       0.011368
+RSA                      0.010809
+Lebanon                  0.008387
+Lithuania                0.006523
+Brazil                   0.005964
+Czech Republic           0.005591
+Bahrain                  0.003541
+Saudi Arabia             0.001864
